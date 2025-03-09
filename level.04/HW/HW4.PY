@@ -1,12 +1,12 @@
-mother=("Tamuna")
+mother="Tamuna"
 
-father=("Oto")
+father="Oto"
 
-brother=("Nikoloz")
+brother="Nikoloz"
 
-grandma=("Maia")
+grandma="Maia"
 
-grandpa=("giorgi")
+grandpa="giorgi"
 
 print("my mother is"+" "+ mother)
 print("my father is"+" "+ father)
